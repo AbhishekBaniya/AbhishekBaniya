@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekBaniya
+- 👋 Hi, I’m @Ab
 - 👀 I’m interested in Research and development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on  NanoTech
